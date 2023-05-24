@@ -1,9 +1,14 @@
+
+
+<img src="https://github.com/kadamshweta11/kadamshweta11/assets/67953305/246ff692-67e1-441a-8101-9dafc6361377" width="100" height="100"/><br>
+======
 # 💫 About Me:
 * 👋I'm *Shweta*.
 * 👩‍💻I'm currently working on *Mendix studio pro (low code development),React js,javascript*.<br>
 * 🧠I'm currently learning *web and API development*<br>
 * 💬Ask me about *Front-end, HTML, CSS, JS, Reactjs ,Java, C++ etc*<br>
 * 📫Know about my experience *[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/shweta-kadam-726875193/)*<br>
+* 😁Fun fact about me: _From coding to designing and crafting, I got a whole lot of tech-related hobbies_. 
 
 
 ## 🌐 Socials:
