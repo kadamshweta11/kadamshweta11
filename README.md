@@ -1,8 +1,9 @@
 # 💫 About Me:
-* 👋I'm Shweta.
-* I'm currently working on Mendix studio pro (low code development),React js,javascript.<br>
-* I'm currently exploring web and API development<br>
-* Ask me about Front-end, HTML, CSS, JS, Reactjs ,Java, C++ etc<br>Know about my experience [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/shweta-kadam-726875193/)<br>
+* 👋I'm *Shweta*.
+* 👩‍💻I'm currently working on *Mendix studio pro (low code development),React js,javascript*.<br>
+* 🧠I'm currently learning *web and API development*<br>
+* 💬Ask me about *Front-end, HTML, CSS, JS, Reactjs ,Java, C++ etc*<br>
+* 📫Know about my experience *[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/shweta-kadam-726875193/)*<br>
 
 
 ## 🌐 Socials:
